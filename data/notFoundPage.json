@@ -1,0 +1,6 @@
+[
+  {"name": "Netflix", "title": "Lost your way?", "hex": "#FFF", "phrase": "Sorry, we can't find that page. You'll find loads to explore on the home page."},
+  {"name": "MM", "title": "OOPS", "hex": "#FFF", "phrase": "Sorry, we can't find that page."},
+  {"name": "Marvel", "title": "404 not found", "hex": "#FFF", "phrase": "HYDRA is currently attacking this page"},
+  {"name": "LEGO", "title": "404", "hex": "#FFF", "phrase": "Sorry, we can't find that page. Don't worry though, everething is STILL AWESOME!"}
+]
